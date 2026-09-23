@@ -1,0 +1,10 @@
+.env
+uploads/
+verification_assets/
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+venv/
+*.log
+.DS_Store
